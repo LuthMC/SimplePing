@@ -1,0 +1,6 @@
+name: SimplePing
+main: Luthfi\SimplePing\Main
+version: 1.0.0
+api: 5.0.0
+author: Luthfi
+description: A simple plugin that pings players by showing a title when they are mentioned in chat.
