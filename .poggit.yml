@@ -5,4 +5,5 @@ branches:
 projects:
   SimplePing:
     path: ""
+    icon: icon.png
 ...
