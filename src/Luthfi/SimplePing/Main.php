@@ -15,11 +15,6 @@ class Main extends PluginBase implements Listener {
         $this->saveDefaultConfig();
         $this->pingMessage = $this->getConfig()->get("ping-message", "§eYou got pinged!");
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
-        $this->getLogger()->info("SimplePing Enabled");
-    }
-
-    public function onDisable(): void {
-        $this->getLogger()->info("SimplePing Disabled");
     }
 
     /**
