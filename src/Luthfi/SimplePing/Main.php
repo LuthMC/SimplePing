@@ -5,7 +5,7 @@ namespace Luthfi\SimplePing;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerChatEvent;
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\utils\TextFormat;
 
 class Main extends PluginBase implements Listener {
