@@ -1,3 +1,4 @@
 # SimplePing Configuration
 
 ping-message: "§eYou got pinged!"
+ping-cooldown: 5 # Default is 5 second.
