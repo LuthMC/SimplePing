@@ -1,7 +1,7 @@
 <p align="center">
- <img width="100px" src="https://i.ibb.co.com/DwLYkg6/20240827-114453.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://i.ibb.co/dwZN8dNF/icon.png" align="center" alt="Icon" />
  <h2 align="center">SimplePing</h2>
- <p align="center">A simple pings plugin.</p>
+ <p align="center">A simple ping plugins for PocketMine-MP</p>
 </p>
 <p align="center">
 <img src="https://github.com/LuthMC/SimplePing/blob/50aa0a03b6c6a208649ab90043ae4a6befc8a134/SimplePing.gif" alt="" border="0">
